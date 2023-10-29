@@ -1,0 +1,7 @@
+{
+  "editor.tokenColorCustomizations": {},
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#006eff",
+    "titleBar.inactiveBackground": "#006eff"
+  }
+}
